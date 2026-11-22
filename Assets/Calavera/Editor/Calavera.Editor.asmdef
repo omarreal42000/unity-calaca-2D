@@ -1,0 +1,8 @@
+{
+    "name": "Calavera.Editor",
+    "rootNamespace": "Calavera.EditorTools",
+    "references": ["Calavera.Runtime", "UnityEngine.UI"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "autoReferenced": false
+}
